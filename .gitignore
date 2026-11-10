@@ -28,3 +28,11 @@ Icon
 coverage
 .coverage
 .env
+.idea
+.vscode
+*.swp
+*.swo
+ssl
+.awcache/
+
+/config.json
